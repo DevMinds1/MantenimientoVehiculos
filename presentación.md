@@ -24,7 +24,7 @@ Figura 1 - Mantenimiento de Vehiculos<br/>
 
 ## 2.0 Mapa de Capacidades
 
-![Mapa de Capacidades drawio](https://github.com/user-attachments/assets/77e0a64f-fbc7-41dd-b6b4-b01075eef576)
+![Mapa de Capacidades drawio](https://github.com/user-attachments/assets/3a182797-9a11-42e0-9e40-86350b9c314d)
 
 <p align="center">
 <i>
