@@ -18,8 +18,16 @@ El mantenimiento preventivo y correctivo de los vehículos es fundamental para p
 
 <p align="center">
 <i>
-Figure 1 - Mantenimiento de Vehiculos<br/>
+Figura 1 - Mantenimiento de Vehiculos<br/>
 </i>
 </p>
 
 ## 2.0 Mapa de Capacidades
+
+![Mapa de Capacidades drawio](https://github.com/user-attachments/assets/77e0a64f-fbc7-41dd-b6b4-b01075eef576)
+
+<p align="center">
+<i>
+Figura 2 - Mapa de capacidades <br/>
+</i>
+</p>
