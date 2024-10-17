@@ -14,7 +14,7 @@
 ## 1.0 Introducción
 El mantenimiento preventivo y correctivo de los vehículos es fundamental para prolongar su vida útil y garantizar su funcionamiento seguro. Un aplicativo nativo nube dedicado a la gestión del mantenimiento permitirá programar y registrar todas las actividades de mantenimiento, asegurando que los vehículos estén siempre en óptimas condiciones. La nube permitirá el almacenamiento seguro de registros históricos y la generación de reportes detallados.
 
-![Mapa de Capacidades drawio](https://github.com/user-attachments/assets/c34fc3b7-be38-49b4-8558-174c7ce8fb46)
+![software-para-talleres](https://github.com/user-attachments/assets/a0613dee-98aa-4a31-8ad9-891355135f55)
 
 <p align="center">
 <i>
@@ -24,7 +24,7 @@ Figura 1 - Mantenimiento de Vehiculos<br/>
 
 ## 2.0 Mapa de Capacidades
 
-![Mapa de Capacidades drawio](https://github.com/user-attachments/assets/3a182797-9a11-42e0-9e40-86350b9c314d)
+![Mapa de Capacidades drawio](https://github.com/user-attachments/assets/4309ba1d-ffdb-4a01-9c36-690000415a46)
 
 <p align="center">
 <i>
