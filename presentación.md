@@ -24,10 +24,15 @@ Figura 1 - Mantenimiento de Vehiculos<br/>
 
 ## 2.0 Mapa de Capacidades
 
-![Mapa de Capacidades drawio](https://github.com/user-attachments/assets/4309ba1d-ffdb-4a01-9c36-690000415a46)
+![Imagen de WhatsApp 2024-10-17 a las 09 01 12_27c997dd](https://github.com/user-attachments/assets/db3d89e4-efaa-466a-b430-3d999897a8d6)
 
 <p align="center">
 <i>
 Figura 2 - Mapa de capacidades <br/>
 </i>
 </p>
+
+
+## 3.0 Prototipo Figma
+
+https://www.figma.com/design/vS4toA14JGxyBCA7eTW7qx/MantenimientoFlotas?node-id=0-1&t=Tv6yzDs2825DE5js-1
