@@ -24,7 +24,8 @@ Figura 1 - Mantenimiento de Vehiculos<br/>
 
 ## 2.0 Mapa de Capacidades
 
-![Imagen de WhatsApp 2024-10-17 a las 09 01 12_27c997dd](https://github.com/user-attachments/assets/db3d89e4-efaa-466a-b430-3d999897a8d6)
+![MapaCapacidades](https://github.com/user-attachments/assets/8ad21f20-ec89-46d8-b068-29622165bca5)
+
 
 <p align="center">
 <i>
