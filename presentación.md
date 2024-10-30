@@ -21,6 +21,7 @@ El mantenimiento preventivo y correctivo de los vehículos es fundamental para p
 Figura 1 - Mantenimiento de Vehiculos<br/>
 </i>
 </p>
+
 ## 3.0 Introducción 
 El mapa capacidades representa las principales funciones de un sistema de gestión para el mantenimiento de una flota vehicular, dividido en tres áreas clave: Registro, Mantenimiento y Verificación. Cada área agrupa una serie de capacidades específicas, organizadas en módulos y submódulos, que permiten la administración eficiente de usuarios, vehículos, talleres, y procesos de mantenimiento preventivo y correctivo.
 
