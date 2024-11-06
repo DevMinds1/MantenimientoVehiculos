@@ -56,4 +56,8 @@ Figura 2 - Mapa de capacidades <br/>
 
 ## 6.0 Prototipo Figma
 
-https://www.figma.com/design/vS4toA14JGxyBCA7eTW7qx/MantenimientoFlotas?node-id=0-1&t=Tv6yzDs2825DE5js-1
+![qrcode_133488899_720ae18b86c79d09d4187c2e8f481515](https://github.com/user-attachments/assets/14e7ed03-1537-4cf7-aec2-77aead87f634)
+
+https://www.figma.com/proto/vS4toA14JGxyBCA7eTW7qx/MantenimientoFlotas?node-id=0-1&node-type=canvas&viewport=776%2C-225%2C0.13&t=tpDSmNgDoSL2pmgt-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=373%3A989
+
+
