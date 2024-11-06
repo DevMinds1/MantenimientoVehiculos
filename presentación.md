@@ -39,8 +39,19 @@ Cada una de estas capacidades contribuye a la optimización del flujo de trabajo
 Figura 2 - Mapa de capacidades <br/>
 </i>
 </p>
+## 5.0 Diagrama
+### 5.1 Mantenimiento
 
+![Mantenimiento](https://github.com/user-attachments/assets/4f2e1597-63df-4565-8164-7ed6280b8781)
 
-## 5.0 Prototipo Figma
+### 5.2 Registro
+
+![Registro](https://github.com/user-attachments/assets/1f2aa746-c93d-4b2c-a450-e4757a3b718d)
+
+### 5.3 Verificación
+
+![Verificacion](https://github.com/user-attachments/assets/e252fc45-ca7a-4237-ba3c-3403d3d5906a)
+
+## 6.0 Prototipo Figma
 
 https://www.figma.com/design/vS4toA14JGxyBCA7eTW7qx/MantenimientoFlotas?node-id=0-1&t=Tv6yzDs2825DE5js-1
