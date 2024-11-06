@@ -40,7 +40,7 @@ Figura 2 - Mapa de capacidades <br/>
 </i>
 </p>
 
-## 5.0 Diagrama
+## 5.0 Diagrama de casos de uso
 
 ### 5.1 Mantenimiento
 
