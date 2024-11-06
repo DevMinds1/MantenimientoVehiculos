@@ -43,13 +43,13 @@ Figura 2 - Mapa de capacidades <br/>
 
 ## 5.0 Diagrama de casos de uso
 
-### 5.1 Mantenimiento
-
-![Mantenimiento](https://github.com/user-attachments/assets/4f2e1597-63df-4565-8164-7ed6280b8781)
-
-### 5.2 Registro
+### 5.1 Registro
 
 ![Registro](https://github.com/user-attachments/assets/1f2aa746-c93d-4b2c-a450-e4757a3b718d)
+
+### 5.2 Mantenimiento
+
+![Mantenimiento2](https://github.com/user-attachments/assets/284f1d09-9acf-42cf-87ba-97eaee986ca1)
 
 ### 5.3 Verificación
 
