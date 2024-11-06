@@ -45,8 +45,7 @@ Figura 2 - Mapa de capacidades <br/>
 
 ### 5.1 Registro
 
-![Registrar2](https://github.com/user-attachments/assets/dee33432-5b95-4445-8202-c74b35b8c1e3)
-
+![Registro3](https://github.com/user-attachments/assets/95c95a86-951a-40d3-ba5e-5c339136bee0)
 
 ### 5.2 Mantenimiento
 
