@@ -39,7 +39,9 @@ Cada una de estas capacidades contribuye a la optimización del flujo de trabajo
 Figura 2 - Mapa de capacidades <br/>
 </i>
 </p>
+
 ## 5.0 Diagrama
+
 ### 5.1 Mantenimiento
 
 ![Mantenimiento](https://github.com/user-attachments/assets/4f2e1597-63df-4565-8164-7ed6280b8781)
