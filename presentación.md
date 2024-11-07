@@ -60,6 +60,8 @@ Figura 2 - Mapa de capacidades <br/>
 
 ## 6.0 Especificaciones
 
+Registro
+
 - Usuario registra las credenciales a UTPL
 
 - UTPL valida las credenciales y notifica al Usuario
@@ -86,6 +88,8 @@ Figura 2 - Mapa de capacidades <br/>
 
 - UTPL notifica de la asignación del vehículo al Administrador
 
+Mantenimiento 
+
 - Administrador Selecciona un Vehículo creado en UTPL
 
 - UTPL carga el vehículo seleccionado por Administrador
@@ -101,6 +105,8 @@ Figura 2 - Mapa de capacidades <br/>
 - UTPL notifica de la creación de Orden de Mantenimiento
 
 - Orden de Mantenimiento es asignada a un Encargado
+
+Verificación
 
 - Encargado Recepta el Vehículo para el proceso de verificación y se carga los datos guardados en UTPL
 
