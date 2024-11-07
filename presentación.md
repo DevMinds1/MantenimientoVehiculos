@@ -60,7 +60,7 @@ Figura 2 - Mapa de capacidades <br/>
 
 ## 6.0 Especificaciones
 
-- Usuario ingresa las credenciales a UTPL
+- Usuario registra las credenciales a UTPL
 
 - UTPL valida las credenciales y notifica al Usuario
 
