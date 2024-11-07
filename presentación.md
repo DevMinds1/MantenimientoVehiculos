@@ -55,7 +55,66 @@ Figura 2 - Mapa de capacidades <br/>
 
 ![Verificacion](https://github.com/user-attachments/assets/e252fc45-ca7a-4237-ba3c-3403d3d5906a)
 
-## 6.0 Prototipo Figma
+## 6.0 Especificaciones
+
+- Usuario ingresa las credenciales a UTPL
+
+- UTPL valida las credenciales y notifica al Usuario
+
+- Usuario ingresa como Administrador
+
+- Administrador registra un taller tipo Concesionario y se guarda en UTPL
+
+- UTPL notifica de la creación al Administrador
+
+- Administrador registra un taller tipo Mecánica y se guarda en UTPL
+
+- UTPL notifica de la creación al Administrador
+
+- Administrador registra un Vehículo Liviano y se guarda en UTPL
+
+- UTPL notifica de la creación al Administrador
+
+- Administrador registra un Vehículo Pesado y se guarda en UTPL
+
+- UTPL notifica de la creación al Administrador
+
+- Administrador Asigna un vehículo a un Taller y se guarda en UTPL
+
+- UTPL notifica de la asignación del vehículo al Administrador
+
+- Administrador Selecciona un Vehículo creado en UTPL
+
+- UTPL carga el vehículo seleccionado por Administrador
+
+- Administrador Selecciona un Mantenimiento Preventivo
+
+- Mantenimiento Preventivo solicita Seleccionar una fecha y Generar Checklist de Verificaciones al Administrador
+
+- Administrador ingresa los datos que solicita y Genera la Orden de Mantenimiento
+
+- Orden de Mantenimiento se guarda en UTPL
+
+- UTPL notifica de la creación de Orden de Mantenimiento
+
+- Orden de Mantenimiento es asignada a un Encargado
+
+- Encargado Recepta el Vehículo para el proceso de verificación y se carga los datos guardados en UTPL
+
+- UTPL despliega los datos para la solicitud del Encargado
+
+- Encargado completa la verificación del checklist y guarda en UTPL
+
+- UTPL notifica la finalización de la verificación al Encargado
+
+- Encargado genera un Reporte de verificación
+
+- Reporte de verificación es generado y guardado en UTPL
+
+- UTPL notifica de la creación del reporte al Encargado
+
+
+## 7.0 Prototipo Figma
 
 <img src="https://github.com/user-attachments/assets/14e7ed03-1537-4cf7-aec2-77aead87f634" alt="qrcode_133488899_720ae18b86c79d09d4187c2e8f481515" width="500"/>
 
