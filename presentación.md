@@ -66,62 +66,47 @@ Registro
 
 - UTPL valida las credenciales y notifica al Usuario
 
-- Usuario ingresa como Administrador
+- Usuario registra un Taller(Concesionario/Mecánica) en UTPL
 
-- Administrador registra un taller tipo Concesionario y se guarda en UTPL
+- UTPL notifica de la creación del Taller al Usuario
 
-- UTPL notifica de la creación al Administrador
+- Usuario registra un Vehículo (Liviano/Pesado) en UTPL
 
-- Administrador registra un taller tipo Mecánica y se guarda en UTPL
+- UTPL notifica de la creación del Vehículo al Usuario
 
-- UTPL notifica de la creación al Administrador
+- Usuario Asigna un vehículo a un Taller en UTPL
 
-- Administrador registra un Vehículo Liviano y se guarda en UTPL
-
-- UTPL notifica de la creación al Administrador
-
-- Administrador registra un Vehículo Pesado y se guarda en UTPL
-
-- UTPL notifica de la creación al Administrador
-
-- Administrador Asigna un vehículo a un Taller y se guarda en UTPL
-
-- UTPL notifica de la asignación del vehículo al Administrador
+- UTPL notifica de la asignación del vehículo al Usuario
 
 Mantenimiento 
 
-- Administrador Selecciona un Vehículo creado en UTPL
+- Usuario Selecciona un Vehículo en UTPL
 
-- UTPL carga el vehículo seleccionado por Administrador
+- UTPL carga el vehículo seleccionado por Usuario
 
-- Administrador Selecciona un Mantenimiento Preventivo
+- Usuario Selecciona un Mantenimiento(Preventivo/Correctivo) en UTPL
 
-- Mantenimiento Preventivo solicita Seleccionar una fecha y Generar Checklist de Verificaciones al Administrador
+- UTPL cragar el Formulario del mantenimiento al Usuario
 
-- Administrador ingresa los datos que solicita y Genera la Orden de Mantenimiento
+- Usuario ingresa los datos que solicita y Genera la Orden de Mantenimiento en UTPL
+  
+- UTPL notifica de la creacion de Orden de Mantenimeinto al Usuario
 
-- Orden de Mantenimiento se guarda en UTPL
-
-- UTPL notifica de la creación de Orden de Mantenimiento
-
-- Orden de Mantenimiento es asignada a un Encargado
+- Usurio asigna a la Orden de Mantenimiento un Encargado
 
 Verificación
 
-- Encargado Recepta el Vehículo para el proceso de verificación y se carga los datos guardados en UTPL
+- Encargado Recepta el Vehículo para el proceso de verificación en UTPL
 
 - UTPL despliega los datos para la solicitud del Encargado
 
-- Encargado completa la verificación del checklist y guarda en UTPL
+- Encargado completa la verificación en UTPL
 
 - UTPL notifica la finalización de la verificación al Encargado
 
-- Encargado genera un Reporte de verificación
-
-- Reporte de verificación es generado y guardado en UTPL
+- Encargado genera un Reporte de verificación a UTPL
 
 - UTPL notifica de la creación del reporte al Encargado
-
 
 ## 7.0 Prototipo Figma
 
