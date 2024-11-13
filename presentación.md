@@ -86,7 +86,7 @@ Mantenimiento
 
 - Usuario Selecciona un Mantenimiento(Preventivo/Correctivo) en UTPL
 
-- UTPL cragar el Formulario del mantenimiento al Usuario
+- UTPL carga el Formulario del mantenimiento al Usuario
 
 - Usuario ingresa los datos que solicita y Genera la Orden de Mantenimiento en UTPL
   
