@@ -117,6 +117,8 @@ Verificación
 ## 7.0 Diccionario de clases
 
 ## 8.0 Diagrama de Casos de Uso
+![Verificacion4](https://github.com/JonathanCoronel/uploadimg/blob/main/DiagramaClases.drawio.png?raw=true)
+
 
 
 
