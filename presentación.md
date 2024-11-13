@@ -29,7 +29,7 @@ El mapa de capacidades representa las principales funciones de nuestro sistema d
 2. Mantenimiento: Este módulo se subdivide en mantenimiento preventivo y correctivo. En el preventivo, se generan órdenes de revisión, se selecciona el vehículo y la fecha, y se crea un checklist de verificación, asignando un encargado para llevarlo a cabo. En el correctivo, se emiten órdenes de reparación y se genera un checklist de fallas.
 3. Verificación: Gestiona la generación de reportes, la carga y verificación de checklists, y se confirma la recepción de las revisiones y reparaciones por parte del encargado.
 Cada una de estas capacidades contribuye a la optimización del flujo de trabajo dentro del sistema de mantenimiento de flotas, facilitando el control y seguimiento de las operaciones esenciales para la preservación y reparación de los vehículos en el tiempo.   
-## 4.0 Mapa de Capacidades
+## Mapa de Capacidades
 
 <img width="715" alt="Captura de pantalla 2024-11-06 a la(s) 22 13 30" src="https://github.com/user-attachments/assets/cd1b70a0-4aab-4522-b622-d4bf9b5df038">
 
@@ -40,6 +40,12 @@ Cada una de estas capacidades contribuye a la optimización del flujo de trabajo
 Figura 2 - Mapa de capacidades <br/>
 </i>
 </p>
+
+## 4.0 Prototipo Figma
+
+<img src="https://github.com/user-attachments/assets/14e7ed03-1537-4cf7-aec2-77aead87f634" alt="qrcode_133488899_720ae18b86c79d09d4187c2e8f481515" width="500"/>
+
+https://www.figma.com/proto/vS4toA14JGxyBCA7eTW7qx/MantenimientoFlotas?node-id=0-1&node-type=canvas&viewport=776%2C-225%2C0.13&t=tpDSmNgDoSL2pmgt-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=373%3A989
 
 ## 5.0 Diagrama de casos de uso
 
@@ -108,10 +114,10 @@ Verificación
 
 - UTPL notifica de la creación del reporte al Encargado
 
-## 7.0 Prototipo Figma
+## 7.0 Diccionario de clases
 
-<img src="https://github.com/user-attachments/assets/14e7ed03-1537-4cf7-aec2-77aead87f634" alt="qrcode_133488899_720ae18b86c79d09d4187c2e8f481515" width="500"/>
+## 8.0 Diagrama de Casos de Uso
 
-https://www.figma.com/proto/vS4toA14JGxyBCA7eTW7qx/MantenimientoFlotas?node-id=0-1&node-type=canvas&viewport=776%2C-225%2C0.13&t=tpDSmNgDoSL2pmgt-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=373%3A989
+
 
 
