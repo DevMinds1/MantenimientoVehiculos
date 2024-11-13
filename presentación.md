@@ -98,7 +98,7 @@ Verificación
 
 - Encargado Recepta el Vehículo para el proceso de verificación en UTPL
 
-- UTPL despliega los datos para la solicitud del Encargado
+- UTPL despliega los datos de verificación al Encargado
 
 - Encargado completa la verificación en UTPL
 
