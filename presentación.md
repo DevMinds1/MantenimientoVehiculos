@@ -31,8 +31,7 @@ El mapa de capacidades representa las principales funciones de nuestro sistema d
 Cada una de estas capacidades contribuye a la optimización del flujo de trabajo dentro del sistema de mantenimiento de flotas, facilitando el control y seguimiento de las operaciones esenciales para la preservación y reparación de los vehículos en el tiempo.   
 ## Mapa de Capacidades
 
-<img width="715" alt="Captura de pantalla 2024-11-06 a la(s) 22 13 30" src="https://github.com/user-attachments/assets/cd1b70a0-4aab-4522-b622-d4bf9b5df038">
-
+![MapaCapacidadesFlotas](https://github.com/user-attachments/assets/df729f52-f2e2-4a82-a306-bf6295922f83)
 
 
 <p align="center">
