@@ -120,7 +120,7 @@ Verificación
 ![Verificacion4](https://github.com/JonathanCoronel/uploadimg/blob/main/DiagramaClases.drawio.png?raw=true)
 
 ## 9.0 Modelo de datos
-
+![image](https://github.com/user-attachments/assets/65f971ce-15b7-4894-8192-9907acb7ccf9)
 
 
 
