@@ -121,10 +121,11 @@ Verificación
 
 ## 9.0 Modelo de datos
 ![image](https://github.com/user-attachments/assets/65f971ce-15b7-4894-8192-9907acb7ccf9)
-Un usuario tiene 0 o más vehículos, un vehículo tiene 1 usuario.
-Un vehículo tiene 1 taller, un taller tiene 1 o más vehículos.
-Un vehículo tiene 0 o más mantenimientos, un mantenimiento tiene 1 vehículo.
-Un usuario (encargado) tiene 1 o más mantenimientos, un mantenimiento tiene 1 usuario (encargado).
+
+- Un usuario tiene 0 o más vehículos, un vehículo tiene 1 usuario.
+- Un vehículo tiene 1 taller, un taller tiene 1 o más vehículos.
+- Un vehículo tiene 0 o más mantenimientos, un mantenimiento tiene 1 vehículo.
+- Un usuario (encargado) tiene 1 o más mantenimientos, un mantenimiento tiene 1 usuario (encargado).
 
 
 
