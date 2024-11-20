@@ -120,7 +120,7 @@ Verificación
 ![Verificacion4](https://github.com/JonathanCoronel/uploadimg/blob/main/DiagramaClases.drawio.png?raw=true)
 
 ## 9.0 Modelo de datos
-![image](https://github.com/user-attachments/assets/65f971ce-15b7-4894-8192-9907acb7ccf9)
+![image](https://github.com/user-attachments/assets/79c7f061-9511-47ff-8c65-58c29a43462b)
 
 - Un usuario tiene 0 o más vehículos, un vehículo tiene 1 usuario.
 - Un vehículo tiene 1 taller, un taller tiene 1 o más vehículos.
