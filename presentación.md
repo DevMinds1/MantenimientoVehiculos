@@ -133,7 +133,7 @@ Verificación
 
 - Registro
 
-![Diagrama_Secuencia_Registro](https://github.com/user-attachments/assets/59ec60e7-791e-4cb9-ad84-ca802c5789af)
+![Diagrama_Secuencia_Registro](https://github.com/user-attachments/assets/289f40b9-0927-484f-8250-5ffcee230805)
 
 - Mantenimiento
   
