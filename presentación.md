@@ -120,7 +120,7 @@ Verificación
 ![DiagramaClases drawio](https://github.com/user-attachments/assets/0b8f88eb-b20b-47ed-80b1-bab88ea59ae1)
 
 ## 9.0 Modelo de datos
-![Modelo de datos drawio](https://github.com/user-attachments/assets/3f69976c-6b8b-49c6-aa0a-c0b7d326b357)
+![Modelo de datos drawio (1)](https://github.com/user-attachments/assets/5fd9fe6c-82cc-4684-bcfa-42c93c8ebca6)
 
 - Un usuario tiene 1 o más mantenimientos, un mantenimiento tiene 1 usuario.
 - Un vehículo tiene 1 o más mantenimientos, un mantenimiento tiene 1 vehículo.
