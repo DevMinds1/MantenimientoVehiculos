@@ -116,7 +116,8 @@ Verificación
 ## 7.0 Diccionario de clases
 
 ## 8.0 Diagrama de Casos de Uso
-![Verificacion4](https://github.com/JonathanCoronel/uploadimg/blob/main/DiagramaClases.drawio.png?raw=true)
+
+![DiagramaClases drawio](https://github.com/user-attachments/assets/0b8f88eb-b20b-47ed-80b1-bab88ea59ae1)
 
 ## 9.0 Modelo de datos
 ![image](https://github.com/user-attachments/assets/79c7f061-9511-47ff-8c65-58c29a43462b)
