@@ -129,6 +129,16 @@ Verificación
 - Un mantenimiento tiene 1 verificación, una verificación tiene 1 mantenimiento.
 - Un requerimiento tiene 1 verificación, una verificación tiene 1 requerimiento.
 
+## 10.0 Diagrama de Secuencia
 
+- Registro
 
+![Diagrama_Secuencia_Registro](https://github.com/user-attachments/assets/59ec60e7-791e-4cb9-ad84-ca802c5789af)
 
+- Mantenimiento
+  
+![Diagrama_Secuencia_Mantenimiento](https://github.com/user-attachments/assets/588e63ca-98be-4686-b464-f4e4ea9bf785)
+
+- Verificación
+  
+![Diagrama_Secuencia_Verificación](https://github.com/user-attachments/assets/3e273b3d-14c6-4891-ba55-0603c25829e7)
