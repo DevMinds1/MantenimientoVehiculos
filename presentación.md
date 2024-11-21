@@ -120,12 +120,14 @@ Verificación
 ![DiagramaClases drawio](https://github.com/user-attachments/assets/0b8f88eb-b20b-47ed-80b1-bab88ea59ae1)
 
 ## 9.0 Modelo de datos
-![image](https://github.com/user-attachments/assets/79c7f061-9511-47ff-8c65-58c29a43462b)
+![Modelo de datos drawio](https://github.com/user-attachments/assets/3f69976c-6b8b-49c6-aa0a-c0b7d326b357)
 
-- Un usuario tiene 0 o más vehículos, un vehículo tiene 1 usuario.
-- Un vehículo tiene 1 taller, un taller tiene 1 o más vehículos.
-- Un vehículo tiene 0 o más mantenimientos, un mantenimiento tiene 1 vehículo.
-- Un usuario (encargado) tiene 1 o más mantenimientos, un mantenimiento tiene 1 usuario (encargado).
+- Un usuario tiene 1 o más mantenimientos, un mantenimiento tiene 1 usuario.
+- Un vehículo tiene 1 o más mantenimientos, un mantenimiento tiene 1 vehículo.
+- Un taller tiene 1 o más mantenimientos, un mantenimiento tiene 1 taller.
+- Un tipo de mantenimiento (correctivo/preventivo) tiene 1 o más mantenimientos, un mantenimiento tiene 1 tipo de mantenimiento (correctivo/preventivo).
+- Un mantenimiento tiene 1 verificación, una verificación tiene 1 mantenimiento.
+- Un requerimiento tiene 1 verificación, una verificación tiene 1 requerimiento.
 
 
 
