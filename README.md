@@ -2,21 +2,21 @@
 
 <h2 align = "center">DevMinds</h2>
 
-## 1. Empresa
+## Empresa
 
-### 1.1 Misión
+### Misión
 
 <p align="justify">
 Empoderar a empresas y personas a través de soluciones de software innovadoras y personalizadas, que integren tecnología de vanguardia con una experiencia de usuario intuitiva. En DevMinds, nos comprometemos a construir aplicaciones confiables y escalables, que impulsen la transformación digital y generen valor duradero para nuestros clientes.
 </p>
 
-### 1.2 Visión 
+### Visión 
 
 <p align="justify">
 Ser reconocidos como un líder global en desarrollo de software, destacado por nuestra creatividad, agilidad y compromiso con la excelencia. Aspiramos a transformar el mundo digital mediante soluciones que hagan más accesible la tecnología y mejoren la vida de millones de personas, inspirando un futuro donde la tecnología sea un catalizador de progreso social y económico.
 </p>
 
-### 1.3 Integrantes
+### Integrantes
 
 + Mateo Valarezo, Quality Assurance - Software Architect
 <img src="https://github.com/user-attachments/assets/95ef95e5-554c-40e5-8509-edd714001767" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
@@ -35,4 +35,15 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
 + Jostin Alvarado, Deploy, Test and Security
 <img src="https://github.com/user-attachments/assets/db83e727-8442-4215-a5dd-457c879ed155" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
 
-## 2. Problemática
+## Descripción del reto
+
+<p>
+El mantenimiento preventivo y correctivo de los vehículos es fundamental para prolongar su vida útil y garantizar su funcionamiento seguro. Un aplicativo nativo nube dedicado a la gestión del mantenimiento permitirá programar y registrar todas las actividades de mantenimiento, asegurando que los vehículos estén siempre en óptimas condiciones
+</p>
+
+## Problema
+
+<p>
+El mantenimiento de flotas vehiculares es un proceso fundamental para garantizar el correcto funcionamiento y la prolongación de la vida útil de los vehículos en cualquier empresa que los gestione. Sin embargo, a medida que la flota crece, la gestión de este proceso se vuelve compleja, ya que implica la planificación, ejecución y seguimiento de diversas actividades de mantenimiento preventivo y correctivo. La falta de una gestión adecuada puede derivar en retrasos, fallas imprevistas, pérdida de información crítica y una administración fragmentada, afectando la operatividad y disponibilidad de los vehículos. Esto, a su vez, incrementa los costos de reparación correctiva y reduce la eficiencia operativa de la empresa. Por ello, es necesario ofrecer una solución integral que centralice y automatice estas actividades, optimizando la gestión del mantenimiento, minimizando tiempos de inactividad, reduciendo costos y mejorando la eficiencia y seguridad de la flota.
+</p>
+
