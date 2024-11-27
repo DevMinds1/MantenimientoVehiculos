@@ -1,8 +1,8 @@
 <h1 align="center"> Mantenimiento de Vehiculos </center></h1>
 
-## 1. Empresa
-
 <h2 align = "center">DevMinds</h2>
+
+## 1. Empresa
 
 ### 1.1 Misión
 
@@ -29,6 +29,8 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
 
 + Edgar Espinoza, UX/UI Designer
 <img src="https://github.com/user-attachments/assets/2af89376-09cf-40ea-ab20-88901ad95402" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
+
+
 
 + Jostin Alvarado, Deploy, Test and Security
 <img src="https://github.com/user-attachments/assets/db83e727-8442-4215-a5dd-457c879ed155" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
