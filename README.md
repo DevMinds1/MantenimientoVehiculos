@@ -17,3 +17,12 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
 + Mateo Valarezo, Quality Assurance - Software Architect
 <img src="https://github.com/user-attachments/assets/95ef95e5-554c-40e5-8509-edd714001767" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
 
++ Oliver Pinos, Backend Developer
+<img src="[https://github.com/user-attachments/assets/95ef95e5-554c-40e5-8509-edd714001767](https://github.com/user-attachments/assets/8e506198-0970-47a4-81ee-f0a50a8781a8)" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
+
++ Jonathan Coronel, Frontend Developer
+<img src="https://github.com/user-attachments/assets/09e7219f-f622-4e56-b860-491e993a86c4" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
+
++ Edgar Espinoza, UX/UI Designer
+<img src="https://github.com/user-attachments/assets/2af89376-09cf-40ea-ab20-88901ad95402" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
+
