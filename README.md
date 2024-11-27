@@ -12,4 +12,8 @@ Empoderar a empresas y personas a través de soluciones de software innovadoras 
 
 Ser reconocidos como un líder global en desarrollo de software, destacado por nuestra creatividad, agilidad y compromiso con la excelencia. Aspiramos a transformar el mundo digital mediante soluciones que hagan más accesible la tecnología y mejoren la vida de millones de personas, inspirando un futuro donde la tecnología sea un catalizador de progreso social y económico.
 
+### 1.3 Integrantes
+
++ Mateo Valarezo, Quality Assurance - Software Architect
+<img src="https://github.com/user-attachments/assets/95ef95e5-554c-40e5-8509-edd714001767" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
 
