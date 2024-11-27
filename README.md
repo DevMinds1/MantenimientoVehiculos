@@ -37,13 +37,13 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
 
 ## Descripción del reto
 
-<p>
+<p align="justify">
 El mantenimiento preventivo y correctivo de los vehículos es fundamental para prolongar su vida útil y garantizar su funcionamiento seguro. Un aplicativo nativo nube dedicado a la gestión del mantenimiento permitirá programar y registrar todas las actividades de mantenimiento, asegurando que los vehículos estén siempre en óptimas condiciones
 </p>
 
 ## Problema
 
-<p>
+<p align="justify">
 El mantenimiento de flotas vehiculares es un proceso fundamental para garantizar el correcto funcionamiento y la prolongación de la vida útil de los vehículos en cualquier empresa que los gestione. Sin embargo, a medida que la flota crece, la gestión de este proceso se vuelve compleja, ya que implica la planificación, ejecución y seguimiento de diversas actividades de mantenimiento preventivo y correctivo. La falta de una gestión adecuada puede derivar en retrasos, fallas imprevistas, pérdida de información crítica y una administración fragmentada, afectando la operatividad y disponibilidad de los vehículos. Esto, a su vez, incrementa los costos de reparación correctiva y reduce la eficiencia operativa de la empresa. Por ello, es necesario ofrecer una solución integral que centralice y automatice estas actividades, optimizando la gestión del mantenimiento, minimizando tiempos de inactividad, reduciendo costos y mejorando la eficiencia y seguridad de la flota.
 </p>
 
