@@ -2,7 +2,7 @@
 
 ![WhatsApp Image 2024-11-26 at 23 27 56](https://github.com/user-attachments/assets/a83fc36a-8189-42f0-b977-631a6210b6b1)
 
-### Descripción 
+# Descripción 
 
 ## 1. Registro
 **Objetivo**: Gestionar la información inicial necesaria para realizar el mantenimiento.
