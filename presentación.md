@@ -9,7 +9,7 @@
 
 + Edgar Espinoza, UX/UI Designer
 
-+ Jostin Alvarado, Test and Security
++ Jostin Alvarado, Deploy, Test and Security
 
 ## 1.0 Introducción
 El mantenimiento preventivo y correctivo de los vehículos es fundamental para prolongar su vida útil y garantizar su funcionamiento seguro. Un aplicativo nativo nube dedicado a la gestión del mantenimiento permitirá programar y registrar todas las actividades de mantenimiento, asegurando que los vehículos estén siempre en óptimas condiciones. La nube permitirá el almacenamiento seguro de registros históricos y la generación de reportes detallados.
