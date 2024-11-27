@@ -35,3 +35,4 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
 + Jostin Alvarado, Deploy, Test and Security
 <img src="https://github.com/user-attachments/assets/db83e727-8442-4215-a5dd-457c879ed155" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
 
+## 2. Problemática
