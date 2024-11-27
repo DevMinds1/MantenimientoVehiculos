@@ -2,6 +2,9 @@
 
 ![WhatsApp Image 2024-11-26 at 23 27 56](https://github.com/user-attachments/assets/a83fc36a-8189-42f0-b977-631a6210b6b1)
 
+![WhatsApp Image 2024-11-27 at 08 13 54](https://github.com/user-attachments/assets/760df37a-d23f-4a00-9196-c75ee91b673b)
+
+
 # Descripción 
 
 ## 1. Registro
