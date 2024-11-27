@@ -18,7 +18,7 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
 <img src="https://github.com/user-attachments/assets/95ef95e5-554c-40e5-8509-edd714001767" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
 
 + Oliver Pinos, Backend Developer
-<img src="https://github.com/user-attachments/assets/95ef95e5-554c-40e5-8509-edd714001767" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
+<img src="https://github.com/user-attachments/assets/884582ef-837e-4e09-b5a7-0de433c65965" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
 
 + Jonathan Coronel, Frontend Developer
 <img src="https://github.com/user-attachments/assets/09e7219f-f622-4e56-b860-491e993a86c4" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
@@ -28,5 +28,4 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
 
 + Jostin Alvarado, Deploy, Test and Security
 <img src="https://github.com/user-attachments/assets/db83e727-8442-4215-a5dd-457c879ed155" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
-
 
