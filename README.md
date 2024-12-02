@@ -53,6 +53,9 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
       <br>
       <b>Jostin Alvarado</b><br>Deploy, Test and Security
     </td>
+    <td align="center">
+      <!-- Columna vacía, si no tienes más miembros -->
+    </td>
   </tr>
 </table>
 
