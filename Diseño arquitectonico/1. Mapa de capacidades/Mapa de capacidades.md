@@ -20,7 +20,7 @@ Un mapa de capacidades generalmente se divide en módulos o áreas de alto nivel
 
 Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en el mantenimiento de flotas vehiculares. La aplicación está organizada en cuatro módulos principales:
 
-1. Registro
-2. Orden de mantenimiento
-3. Verificación
-4. Resumen
+**1. Registro**
+**2. Orden de mantenimiento**
+**3. Verificación**
+**4. Resumen**
