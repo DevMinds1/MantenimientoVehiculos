@@ -4,10 +4,12 @@
 
 <h1 align="center"> ¿Quiénes somos? </center></h1>
 
-<h2>Devminds</h2> 
-<p>
+### Devminds
+
+<p align="justify">
   Es una empresa de desarrollo de software dedicada a ofrecer soluciones digitales personalizadas que se adaptan a las necesidades específicas de cada cliente. Nuestro   enfoque se centra en la calidad, la innovación y la satisfacción del cliente, garantizando que cada producto entregue un alto valor, cumpla con estándares de excelencia y potencie la transformación digital de las organizaciones.
 </p>
+
 ### Misión
 
 <p align="justify">
