@@ -59,6 +59,8 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
   </tr>
 </table>
 
+<h1>Reto: Mantenimiento de flotas</h1>
+
 ## Descripción del reto
 
 <p align="justify">
