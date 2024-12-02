@@ -3,3 +3,4 @@
 </p>
 
 # Mapa de capacidades "Aplicación mantenimiento de flotas"
+<h2>¿Qué es un mapa de capacidades?</h2>
