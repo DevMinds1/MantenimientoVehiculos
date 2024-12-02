@@ -1,4 +1,5 @@
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.utpl.edu.ec%2Fimagen&psig=AOvVaw2l2AiQPNuXPOQUAAmglXZ9&ust=1733234492269000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCdzuKfiYoDFQAAAAAdAAAAABAE'>
+
+![utpl2](https://github.com/user-attachments/assets/899a06d7-01dd-4f33-b0cf-48b36b632b6f)
 
 <h1 align="center"> Mantenimiento de flotas </center></h1>
 
