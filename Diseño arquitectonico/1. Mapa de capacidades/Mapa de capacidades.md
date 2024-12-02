@@ -4,3 +4,5 @@
 
 # Mapa de capacidades "Aplicación mantenimiento de flotas"
 <h2>¿Qué es un mapa de capacidades?</h2>
+
+Un **Mapa de Capacidades** es una herramienta visual que ayuda a estructurar y definir las funciones y habilidades esenciales de un sistema o aplicación. Su propósito es ofrecer una visión clara de las capacidades que un sistema debe tener para cumplir sus objetivos. En el contexto de una aplicación de software, un mapa de capacidades permite identificar las áreas clave de funcionalidad, agrupar actividades relacionadas y visualizar cómo se interconectan los diferentes módulos del sistema.
