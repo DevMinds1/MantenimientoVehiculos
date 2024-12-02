@@ -1,4 +1,4 @@
-<img src='https://github.com/user-attachments/assets/899a06d7-01dd-4f33-b0cf-48b36b632b6f' width="250" height="250">
+<img src='https://github.com/user-attachments/assets/899a06d7-01dd-4f33-b0cf-48b36b632b6f' height="200">
 
 <h1 align="center"> Mantenimiento de flotas </center></h1>
 
