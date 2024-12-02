@@ -31,8 +31,6 @@ Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en
 
 ## Descripción de los modulos
 
-# Descripción 
-
 ## 1. Registro
 **Objetivo**: Gestionar la información inicial necesaria para realizar el mantenimiento.
 
