@@ -28,3 +28,5 @@ Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en
 <br>
 **4. Resumen**
 <br>
+
+## Descripción de los modulos
