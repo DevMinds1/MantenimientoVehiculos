@@ -79,7 +79,7 @@ El mantenimiento de flotas vehiculares es un proceso fundamental para garantizar
 Nuestra empresa ofrece una solución integral para la gestión eficiente del mantenimiento de flotas vehiculares, abarcando todo el ciclo de vida del proceso. El sistema permite registrar y administrar distintos tipos de vehículos, asignar responsables y gestionar toda la información de manera ágil y sencilla a través de una interfaz intuitiva. La plataforma facilita la creación de órdenes de mantenimiento, ya sea de forma programada o según las necesidades específicas de cada unidad, asegurando una planificación óptima. Además, integra procesos de verificación en cada etapa del mantenimiento para garantizar la correcta ejecución de las órdenes, permitiendo un control de calidad continuo sobre toda la flota. Esta solución no solo optimiza la operatividad y disponibilidad de los vehículos, sino que también contribuye a mejorar la seguridad y la rentabilidad.
 </p>
 
-## Prototipo Figma
+## Prototipo FIGMA
 
 <img src="https://github.com/user-attachments/assets/14e7ed03-1537-4cf7-aec2-77aead87f634" alt="qrcode_133488899_720ae18b86c79d09d4187c2e8f481515" width="500"/>
 
