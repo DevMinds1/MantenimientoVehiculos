@@ -22,8 +22,8 @@ Empoderar a empresas y personas a través de soluciones de software innovadoras 
 Ser reconocidos como un líder global en desarrollo de software, destacado por nuestra creatividad, agilidad y compromiso con la excelencia. Aspiramos a transformar el mundo digital mediante soluciones que hagan más accesible la tecnología y mejoren la vida de millones de personas, inspirando un futuro donde la tecnología sea un catalizador de progreso social y económico.
 </p>
 
-### Integrantes
-
+<h2>Integrantes y roles en el proyecto</h2>
+  
 <table>
   <tr>
     <td align="center">
