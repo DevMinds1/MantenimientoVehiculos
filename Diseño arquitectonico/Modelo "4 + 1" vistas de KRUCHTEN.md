@@ -1,5 +1,10 @@
+<p align='center'>
+  <img src='https://github.com/user-attachments/assets/899a06d7-01dd-4f33-b0cf-48b36b632b6f' height="150">
+</p>
 
-## Modelo 4+1 de Vistas Arquitectónicas
+<h1 align='center'>
+  Modelo 4+1 de Vistas Arquitectónicas
+</h1>
 
 El ***modelo 4+1 de vistas arquitectónicas*** es un marco conceptual desarrollado por Philippe Kruchten para describir la arquitectura de sistemas software complejos. Divide la arquitectura en cinco vistas diferentes, diseñadas para satisfacer las necesidades de diferentes interesados (stakeholders) y para facilitar la comunicación, comprensión y análisis del sistema.
 
