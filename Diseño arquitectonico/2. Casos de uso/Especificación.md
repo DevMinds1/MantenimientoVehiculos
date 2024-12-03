@@ -114,7 +114,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   </tr>
 </table>
 
-## 1. Diagrama de caso de uso (Orden de mantenimiento)
+## 2. Diagrama de caso de uso (Orden de mantenimiento)
 
 ![Diagrama de caso de uso Orden Mantenimiento drawio](https://github.com/user-attachments/assets/316bbcb2-b8ec-4806-b665-11bad07c2f4e)
 
@@ -213,7 +213,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   </tr>
 </table>
 
-## 1. Diagrama de caso de uso (Verificación)
+## 3. Diagrama de caso de uso (Verificación)
 
 ![Diagrama de caso de uso Verificacion drawio](https://github.com/user-attachments/assets/85e14738-5f2a-4a79-a475-afc2585708b6)
 
@@ -275,7 +275,55 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   </tr>
 </table>
 
+## 4. Diagrama de caso de uso (Resumen)
+
 ![Diagrama de caso de uso Resumen drawio](https://github.com/user-attachments/assets/4ac60013-e6c7-4d48-aa52-4717eb858dd0)
+
+## Descripción (Resumen)
+
+### Caso: visualizar mantenimiento
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>visualizar mantenimiento</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       -Usuario<br>- UTPL<br>-Mantenimiento
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+     - Usuario Visualiza un resumen de los Mantenimientos en UTPL
+      <br>
+     - UTPL despliega los datos de los Mantenimientos al Usuario
+    </td>
+  </tr>
+</table>
+
+### Caso: visualizar costos
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>visualizar costos</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       -Usuario<br>- UTPL
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+     - Usuario Visualiza los costos en UTPL
+      <br>
+     - UTPL despliega los datos de los costos al Usuario
+    </td>
+  </tr>
+</table>
 
 
 
