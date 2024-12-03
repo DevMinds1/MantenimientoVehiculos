@@ -46,7 +46,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ![Caso de uso Registro](https://github.com/user-attachments/assets/17f5063e-6ab4-41be-a86d-1f6c6b92257f)
 
-### Descripción (Registro)
+## Descripción (Registro)
 
 ### Caso: verificar usuario
 <table>
@@ -67,10 +67,6 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
       <br>
       UTPL valida las credenciales y notifica al Usuario
     </td>
-  </tr>
-  <tr>
-    <td>Fila 3, Celda 1</td>
-    <td>Fila 3, Celda 2</td>
   </tr>
 </table>
 
