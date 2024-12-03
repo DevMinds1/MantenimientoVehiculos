@@ -60,8 +60,11 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
     </td>
   </tr>
   <tr>
-    <td>Fila 2, Celda 1</td>
-    <td>Fila 2, Celda 2</td>
+    <td>Flujo normal</td>
+    <td>
+      Usuario registra las credenciales a UTPL
+      UTPL valida las credenciales y notifica al Usuario
+    </td>
   </tr>
   <tr>
     <td>Fila 3, Celda 1</td>
