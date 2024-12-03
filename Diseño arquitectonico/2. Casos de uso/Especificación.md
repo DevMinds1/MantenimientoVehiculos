@@ -48,9 +48,9 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ### Descripción (Registro)
 
-| Columna 1     | Columna 2     |
+| Nombre   |     | Verificar usuario |
 | ------------- | ------------- |
-| Fila 1, Celda 1 | Fila 1, Celda 2 |
+| Actores | Usuario, UTPL |
 | Fila 2, Celda 1 | Fila 2, Celda 2 |
 | Fila 3, Celda 1 | Fila 3, Celda 2 |
 
