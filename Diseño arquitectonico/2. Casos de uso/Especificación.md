@@ -213,4 +213,10 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   </tr>
 </table>
 
+![Diagrama de caso de uso Verificacion drawio](https://github.com/user-attachments/assets/85e14738-5f2a-4a79-a475-afc2585708b6)
+
+![Diagrama de caso de uso Resumen drawio](https://github.com/user-attachments/assets/4ac60013-e6c7-4d48-aa52-4717eb858dd0)
+
+
+
 
