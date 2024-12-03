@@ -22,8 +22,13 @@ Es ampliamente utilizado en la fase de diseño de software para definir cómo in
 ## Estructura general de un diagrama de clases
 Un diagrama de clases sigue la siguiente estructura:
 
-1. Clases:
+1. **Clases:**
    + Representadas como rectángulos divididos en tres secciones:
-     + Nombre de la clase (parte superior).
-     + Atributos (parte media).
-     + Métodos (parte inferior).
+     + **Nombre** de la clase (parte superior).
+     + **Atributos** (parte media).
+     + **Métodos** (parte inferior).
+2. **Relaciones entre clases:**
+   + **Asociaciones:** Indican conexiones entre clases.
+   + **Composición:** Una clase contiene a otra como parte esencial.
+   + **Agregación:** Una clase contiene a otra, pero no de manera esencial.
+   + **Herencia:** Una clase hereda propiedades y métodos de otra.
