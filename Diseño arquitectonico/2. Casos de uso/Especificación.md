@@ -118,4 +118,99 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ![Diagrama de caso de uso Orden Mantenimiento drawio](https://github.com/user-attachments/assets/316bbcb2-b8ec-4806-b665-11bad07c2f4e)
 
-## Descripción (Registro)
+## Descripción (Orden de mantenimiento)
+
+### Caso: seleccionar vehículo
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Seleccionar vehículo</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       - Usuario<br>- UTPL<br>-Vehículo
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+      - Usuario Selecciona un Vehículo en UTPL
+      <br>
+      - UTPL carga el vehículo seleccionado por Usuario
+    </td>
+  </tr>
+</table>
+
+### Caso: seleccionar encargado
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Seleccionar encargado</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       - Usuario<br>- UTPL<br>-Encargado
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+      - Usuario Selecciona un Encargado en UTPL
+      <br>
+      - UTPL carga el Encargado seleccionado por Usuario
+    </td>
+  </tr>
+</table>
+
+
+### Caso: seleccionar taller
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Seleccionar taller</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       - Usuario<br>- UTPL<br>-Taller
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+      - Usuario Selecciona un taller en UTPL
+      <br>
+      - UTPL carga el taller seleccionado por Usuario
+    </td>
+  </tr>
+</table>
+
+### Caso: crear mantenimiento
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Seleccionar taller</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       - Usuario<br>- UTPL<br>-Orden de Mantenimiento<br>
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+      - Usuario Selecciona una Orden de Mantenimiento (Preventivo/Correctivo) en UTPL
+      <br>
+      - UTPL carga el Formulario del mantenimiento al Usuario
+      <br>
+      - Usuario ingresa los datos que solicita y Genera la Orden de Mantenimiento en UTPL
+      <br>
+      - UTPL notifica de la creación de Orden de Mantenimiento al Usuario
+    </td>
+  </tr>
+</table>
+
+
