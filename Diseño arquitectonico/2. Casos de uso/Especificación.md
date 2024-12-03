@@ -213,7 +213,45 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   </tr>
 </table>
 
+## 1. Diagrama de caso de uso (Verificación)
+
 ![Diagrama de caso de uso Verificacion drawio](https://github.com/user-attachments/assets/85e14738-5f2a-4a79-a475-afc2585708b6)
+
+## Descripción (Verificación)
+
+### Caso: receptar vehículo
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Seleccionar vehículo</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       -Encargado<br>- UTPL<br>-Vehículo<br>-Mantenimiento
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+     - Usuario (Encargado) Recepta el Vehículo para el proceso de verificación en UTPL
+      <br>
+     - UTPL despliega los datos de verificación al Usuario (Encargado)
+      <br>
+     - Usuario (Encargado) completa la verificación en UTPL
+      <br>
+     - UTPL notifica la finalización de la verificación al Usuario (Encargado)
+      <br>
+     - Usuario (Encargado) Ingresa el Costo de Mantenimiento en UTPL
+      <br>
+     - UTPL notifica el ingreso del Costo al Usuario (Encargado)
+      <br>
+     - Usuario (Encargado) Toma Foto de Factura en UTPL
+      <br>
+     - UTPL notifica el ingreso de Foto al Usuario (Encargado)
+    </td>
+  </tr>
+</table>
 
 ![Diagrama de caso de uso Resumen drawio](https://github.com/user-attachments/assets/4ac60013-e6c7-4d48-aa52-4717eb858dd0)
 
