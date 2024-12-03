@@ -191,7 +191,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 <table>
   <tr>
     <th>Nombre</th>
-    <th>Seleccionar taller</th>
+    <th>Crear mantenimiento</th>
   </tr>
   <tr>
     <td>Actores</td>
@@ -223,7 +223,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 <table>
   <tr>
     <th>Nombre</th>
-    <th>Seleccionar vehículo</th>
+    <th>Receptar vehículo</th>
   </tr>
   <tr>
     <td>Actores</td>
@@ -249,6 +249,28 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
      - Usuario (Encargado) Toma Foto de Factura en UTPL
       <br>
      - UTPL notifica el ingreso de Foto al Usuario (Encargado)
+    </td>
+  </tr>
+</table>
+
+### Caso: generar reporte
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Generar reporte</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       - Encargado<br>- Reporte<br>- UTPL<br>
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+      - Usuario (Encargado) genera un Reporte de verificación a UTPL
+      <br>
+      - UTPL notifica de la creación del reporte al Usuario (Encargado)
     </td>
   </tr>
 </table>
