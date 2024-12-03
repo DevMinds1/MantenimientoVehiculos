@@ -27,16 +27,57 @@ Los diagramas de secuencia son una herramienta de modelado en la Ingeniería de 
 
 ![Diagrama_Secuencia_Registro](https://github.com/user-attachments/assets/e18e175b-db6c-4a36-b8b9-cc0fe7a0098e)
 
+### Explicación:
+
+Este diagrama describe cómo los usuarios inician sesión en el sistema de la UTPL. Una vez autenticado, puede registrar talleres y vehículos. Los pasos clave incluyen:
+
++ Registrar credenciales.
++ Validar las credenciales del usuario.
++ Registrar talleres.
++ Registrar vehículos.
+
+
 ### Diagrama: Orden de mantenimiento
 
 ![Diagrama_Secuencia_Orden](https://github.com/user-attachments/assets/fb0b51f9-ab34-4705-8f23-246194004013)
+
+### Explicación:
+
+Este diagrama describe cómo los usuarios crean una orden de mantenimiento. Los pasos clave incluyen:
+
++ Buscar vehículo.
++ Buscar encargado.
++ Buscar taller.
++ Obtener tipo de orden.
++ Solicita los datos del formulario.
++ Completa formulario.
++ Notifica creación.
 
 ### Diagrama: Verificación
 
 ![Diagrama_Secuencia_Verificación](https://github.com/user-attachments/assets/147bd28a-eaea-46f4-9e85-38a0a4b4f4fe)
 
+### Explicación:
+
+Este diagrama describe cómo se verifican los mantenimientos. Los pasos clave incluyen:
+
++ Obtiene vehículo.
++ Despliega datos.
++ Obtiene verificación.
++ Notifica verificación.
++ Ingresa costo.
++ Toma foto de la factura.
++ Genera reporte.
++ Obtiene reporte.
+
 ### Diagrama: Resumen
 
 ![Diagrama_Secuencia_Resumen](https://github.com/user-attachments/assets/f524c071-f261-4a2c-99ad-528a610c01ea)
 
+### Explicación:
+
+Este diagrama describe cómo se dara el resumen sobre mantenimiento y costos. Los pasos clave incluyen:
+
++ Obtiene orden.
++ Despliega datos.
 
