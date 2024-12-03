@@ -70,3 +70,47 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   </tr>
 </table>
 
+### Caso: registrar taller
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Registrar taller</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       Usuario<br>UTPL<br>Taller
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+      Usuario registra un Taller (Concesionario/Mecánica) en UTPL
+      <br>
+      UTPL notifica de la creación del Taller al Usuario
+    </td>
+  </tr>
+</table>
+
+### Caso: registrar vehículo
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Registrar vehículo</th>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>
+       Usuario<br>UTPL<br>Vehículo
+    </td>
+  </tr>
+  <tr>
+    <td>Flujo normal</td>
+    <td>
+      Usuario registra un Vehículo (Liviano/Pesado) en UTPL
+      <br>
+      UTPL notifica de la creación del Vehículo al Usuario
+    </td>
+  </tr>
+</table>
+
