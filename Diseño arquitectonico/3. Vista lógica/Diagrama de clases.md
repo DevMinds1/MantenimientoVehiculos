@@ -18,3 +18,12 @@ Un **diagrama de clases** es un tipo de diagrama estático en la Programación O
   4. **Relaciones:** Muestran las conexiones entre las clases, como asociaciones, composiciones o herencias.<br>
   
 Es ampliamente utilizado en la fase de diseño de software para definir cómo interactúan las diferentes partes del sistema.<br>
+
+## Estructura general de un diagrama de clases
+Un diagrama de clases sigue la siguiente estructura:
+
+1. Clases:
+   + Representadas como rectángulos divididos en tres secciones:
+     + Nombre de la clase (parte superior).
+     + Atributos (parte media).
+     + Métodos (parte inferior).
