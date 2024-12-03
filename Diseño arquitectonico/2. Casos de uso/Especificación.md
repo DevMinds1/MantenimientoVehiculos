@@ -21,3 +21,24 @@ El diagrama de casos de uso es una herramienta clave para el desarrollo y docume
 3. Definir el alcance del sistema: Determinar los límites del sistema, especificando qué incluye y qué excluye.
 4. Identificar actores clave: Describir quiénes interactuarán con el sistema, ya sean usuarios humanos o sistemas externos.
 5. Priorizar funcionalidades: Ayudar a evaluar y clasificar las funcionalidades en función de su importancia o impacto para los usuarios.
+
+## Estructura de un diagrama de casos de uso
+
+La estructura de un diagrama de casos de uso incluye los siguientes componentes principales: 
+1. Actores:
+   + Representan las entidades externas que interactúan con el sistema.
+   + Pueden ser personas, organizaciones o sistemas.
+   + Se representan gráficamente como una figura humana o una etiqueta que los identifica.
+   + Ejemplo: Usuario, Administrador, Sistema Externo.
+2. Casos de uso:
+   + Representan las funcionalidades o servicios específicos que el sistema proporciona a los actores.
+   + Se representan como óvalos con un nombre que describe la acción.
+   + Ejemplo: Registrar Usuario, Generar Informe, Procesar Pago.
+3. Relaciones:
+   + Asociación: Representa la interacción entre un actor y un caso de uso (línea sólida).
+   + Inclusión (<<include>>): Indica que un caso de uso incluye la funcionalidad de otro, generalmente para evitar redundancia.
+   + Extensión (<<extend>>): Señala un caso de uso opcional que extiende la funcionalidad de otro principal, dependiendo de ciertas condiciones.
+   + Generalización: Define relaciones de herencia entre actores o entre casos de uso.
+4. Sistema:
+   + Representa los límites del sistema modelado.
+   + Se ilustra como un rectángulo que contiene los casos de uso.
