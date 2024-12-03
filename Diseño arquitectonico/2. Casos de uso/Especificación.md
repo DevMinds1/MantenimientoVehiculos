@@ -48,6 +48,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ### Descripción (Registro)
 
+### Caso: verificar usuario
 <table>
   <tr>
     <th>Nombre</th>
