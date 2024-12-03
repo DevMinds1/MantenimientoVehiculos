@@ -56,13 +56,14 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   <tr>
     <td>Actores</td>
     <td>
-       Usuario, UTPL
+       Usuario<br>UTPL
     </td>
   </tr>
   <tr>
     <td>Flujo normal</td>
     <td>
       Usuario registra las credenciales a UTPL
+      <br>
       UTPL valida las credenciales y notifica al Usuario
     </td>
   </tr>
