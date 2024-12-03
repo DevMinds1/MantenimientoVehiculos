@@ -36,8 +36,8 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
    + Ejemplo: Registrar Usuario, Generar Informe, Procesar Pago.
 3. Relaciones:
    + Asociación: Representa la interacción entre un actor y un caso de uso (línea sólida).
-   + Inclusión (<<include>>): Indica que un caso de uso incluye la funcionalidad de otro, generalmente para evitar redundancia.
-   + Extensión (<<extend>>): Señala un caso de uso opcional que extiende la funcionalidad de otro principal, dependiendo de ciertas condiciones.
+   + Inclusión (<< include >>): Indica que un caso de uso incluye la funcionalidad de otro, generalmente para evitar redundancia.
+   + Extensión (<< extend >>): Señala un caso de uso opcional que extiende la funcionalidad de otro principal, dependiendo de ciertas condiciones.
    + Generalización: Define relaciones de herencia entre actores o entre casos de uso.
 4. Sistema:
    + Representa los límites del sistema modelado.
