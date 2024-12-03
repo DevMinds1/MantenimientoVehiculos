@@ -45,4 +45,4 @@ Un diagrama de clases sigue la siguiente estructura:
 
 ## Foto del diagrama de clases
 
-
+![mante2](https://github.com/user-attachments/assets/4b060a26-3a98-4c48-8ca9-6143620bec73)
