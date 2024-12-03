@@ -39,4 +39,4 @@ Un diagrama de clases sigue la siguiente estructura:
    + \- Privado: Accesible solo dentro de la clase.
    + \# Protegido: Accesible dentro de la clase y sus subclases.
 
-4. **Cardinalidad**: Define la cantidad de objetos relacionados, como \1:1, \1:N o \N:M.
+4. **Cardinalidad**: Define la cantidad de objetos relacionados, como 1:1, 1:N o N:M.
