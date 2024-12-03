@@ -42,3 +42,4 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 4. Sistema:
    + Representa los límites del sistema modelado.
    + Se ilustra como un rectángulo que contiene los casos de uso.
+## 1. Diagrama de caso de uso (Registro)
