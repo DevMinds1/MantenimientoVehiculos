@@ -56,8 +56,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   <tr>
     <td>Actores</td>
     <td>
-      + Usuario
-      + UTPL
+       Usuario, UTPL
     </td>
   </tr>
   <tr>
