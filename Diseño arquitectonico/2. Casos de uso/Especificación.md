@@ -47,3 +47,10 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 ![Caso de uso Registro](https://github.com/user-attachments/assets/17f5063e-6ab4-41be-a86d-1f6c6b92257f)
 
 ### Descripción (Registro)
+
+| Columna 1     | Columna 2     |
+| ------------- | ------------- |
+| Fila 1, Celda 1 | Fila 1, Celda 2 |
+| Fila 2, Celda 1 | Fila 2, Celda 2 |
+| Fila 3, Celda 1 | Fila 3, Celda 2 |
+
