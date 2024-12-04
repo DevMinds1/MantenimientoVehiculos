@@ -44,15 +44,14 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
    + Se ilustra como un rectángulo que contiene los casos de uso.
 ## 1. Diagrama de caso de uso (Registro)
 
-![Caso de uso Registro](https://github.com/user-attachments/assets/17f5063e-6ab4-41be-a86d-1f6c6b92257f)
+![Caso de uso Registro](https://github.com/JonathanCoronel/uploadimg/blob/main/Imagenes%20Arquitectura/Diagrama%20de%20Caso1.drawio.png?raw=true)
 
-## Descripción (Registro)
+## Especificación (Registro)
 
-### Caso: verificar usuario
 <table>
   <tr>
     <th>Nombre</th>
-    <th>Verificar usuario</th>
+    <th>Registro</th>
   </tr>
   <tr>
     <td>Actores</td>
@@ -66,47 +65,11 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
       - Usuario registra las credenciales a UTPL
       <br>
       - UTPL valida las credenciales y notifica al Usuario
-    </td>
-  </tr>
-</table>
-
-### Caso: registrar taller
-<table>
-  <tr>
-    <th>Nombre</th>
-    <th>Registrar taller</th>
-  </tr>
-  <tr>
-    <td>Actores</td>
-    <td>
-       - Usuario<br>- UTPL<br>- Taller
-    </td>
-  </tr>
-  <tr>
-    <td>Flujo normal</td>
-    <td>
-      - Usuario registra un Taller (Concesionario/Mecánica) en UTPL
+      <br>
+       - Usuario registra un Taller (Concesionario/Mecánica) en UTPL
       <br>
       - UTPL notifica de la creación del Taller al Usuario
-    </td>
-  </tr>
-</table>
-
-### Caso: registrar vehículo
-<table>
-  <tr>
-    <th>Nombre</th>
-    <th>Registrar vehículo</th>
-  </tr>
-  <tr>
-    <td>Actores</td>
-    <td>
-       - Usuario<br>- UTPL<br>- Vehículo
-    </td>
-  </tr>
-  <tr>
-    <td>Flujo normal</td>
-    <td>
+      <br>
       - Usuario registra un Vehículo (Liviano/Pesado) en UTPL
       <br>
       - UTPL notifica de la creación del Vehículo al Usuario
@@ -116,93 +79,41 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ## 2. Diagrama de caso de uso (Orden de mantenimiento)
 
-![Diagrama de caso de uso Orden Mantenimiento drawio](https://github.com/user-attachments/assets/316bbcb2-b8ec-4806-b665-11bad07c2f4e)
+![Diagrama de caso de uso Orden Mantenimiento drawio](https://github.com/JonathanCoronel/uploadimg/blob/main/Imagenes%20Arquitectura/Diagrama%20de%20Caso2.drawio.png?raw=true)
 
-## Descripción (Orden de mantenimiento)
+## Especificación (Orden de mantenimiento)
 
-### Caso: seleccionar vehículo
 <table>
   <tr>
     <th>Nombre</th>
-    <th>Seleccionar vehículo</th>
+    <th>Orden de mantenimiento</th>
   </tr>
   <tr>
     <td>Actores</td>
     <td>
-       - Usuario<br>- UTPL<br>-Vehículo
+       - Usuario<br>- UTPL
     </td>
   </tr>
   <tr>
     <td>Flujo normal</td>
     <td>
+      - Usuario crea una orden de Mantenimiento en UTPL
+      <br>
+      - UTPL carga el formulario del Mantenimiento al Usuario
+      <br>
       - Usuario Selecciona un Vehículo en UTPL
       <br>
       - UTPL carga el vehículo seleccionado por Usuario
-    </td>
-  </tr>
-</table>
-
-### Caso: seleccionar encargado
-<table>
-  <tr>
-    <th>Nombre</th>
-    <th>Seleccionar encargado</th>
-  </tr>
-  <tr>
-    <td>Actores</td>
-    <td>
-       - Usuario<br>- UTPL<br>-Encargado
-    </td>
-  </tr>
-  <tr>
-    <td>Flujo normal</td>
-    <td>
-      - Usuario Selecciona un Encargado en UTPL
+      <br>
+       - Usuario Selecciona un Encargado en UTPL
       <br>
       - UTPL carga el Encargado seleccionado por Usuario
-    </td>
-  </tr>
-</table>
-
-
-### Caso: seleccionar taller
-<table>
-  <tr>
-    <th>Nombre</th>
-    <th>Seleccionar taller</th>
-  </tr>
-  <tr>
-    <td>Actores</td>
-    <td>
-       - Usuario<br>- UTPL<br>-Taller
-    </td>
-  </tr>
-  <tr>
-    <td>Flujo normal</td>
-    <td>
-      - Usuario Selecciona un taller en UTPL
+      <br>
+       - Usuario Selecciona un taller en UTPL
       <br>
       - UTPL carga el taller seleccionado por Usuario
-    </td>
-  </tr>
-</table>
-
-### Caso: crear mantenimiento
-<table>
-  <tr>
-    <th>Nombre</th>
-    <th>Crear mantenimiento</th>
-  </tr>
-  <tr>
-    <td>Actores</td>
-    <td>
-       - Usuario<br>- UTPL<br>-Orden de Mantenimiento<br>
-    </td>
-  </tr>
-  <tr>
-    <td>Flujo normal</td>
-    <td>
-      - Usuario Selecciona una Orden de Mantenimiento (Preventivo/Correctivo) en UTPL
+      <br>
+       - Usuario Selecciona una Orden de Mantenimiento (Preventivo/Correctivo) en UTPL
       <br>
       - UTPL carga el Formulario del mantenimiento al Usuario
       <br>
@@ -215,20 +126,19 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ## 3. Diagrama de caso de uso (Verificación)
 
-![Diagrama de caso de uso Verificacion drawio](https://github.com/user-attachments/assets/85e14738-5f2a-4a79-a475-afc2585708b6)
+![Diagrama de caso de uso Verificacion drawio](https://github.com/JonathanCoronel/uploadimg/blob/main/Imagenes%20Arquitectura/Diagrama%20de%20Caso3.drawio.png?raw=true)
 
-## Descripción (Verificación)
+## Especificación (Verificación)
 
-### Caso: receptar vehículo
 <table>
   <tr>
     <th>Nombre</th>
-    <th>Receptar vehículo</th>
+    <th>Verificación</th>
   </tr>
   <tr>
     <td>Actores</td>
     <td>
-       -Encargado<br>- UTPL<br>-Vehículo<br>-Mantenimiento
+       -Encargado<br>- UTPL
     </td>
   </tr>
   <tr>
@@ -249,48 +159,29 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
      - Usuario (Encargado) Toma Foto de Factura en UTPL
       <br>
      - UTPL notifica el ingreso de Foto al Usuario (Encargado)
-    </td>
-  </tr>
-</table>
-
-### Caso: generar reporte
-<table>
-  <tr>
-    <th>Nombre</th>
-    <th>Generar reporte</th>
-  </tr>
-  <tr>
-    <td>Actores</td>
-    <td>
-       - Encargado<br>- Reporte<br>- UTPL<br>
-    </td>
-  </tr>
-  <tr>
-    <td>Flujo normal</td>
-    <td>
-      - Usuario (Encargado) genera un Reporte de verificación a UTPL
       <br>
-      - UTPL notifica de la creación del reporte al Usuario (Encargado)
+     - Usuario (Encargado) genera un Reporte de verificación a UTPL
+      <br>
+     - UTPL notifica de la creación del reporte al Usuario (Encargado)
     </td>
   </tr>
 </table>
 
 ## 4. Diagrama de caso de uso (Resumen)
 
-![Diagrama de caso de uso Resumen drawio](https://github.com/user-attachments/assets/4ac60013-e6c7-4d48-aa52-4717eb858dd0)
+![Diagrama de caso de uso Resumen drawio](https://github.com/JonathanCoronel/uploadimg/blob/main/Imagenes%20Arquitectura/Diagrama%20de%20Caso4.drawio.png?raw=true)
 
-## Descripción (Resumen)
+## Especificación (Resumen)
 
-### Caso: visualizar mantenimiento
 <table>
   <tr>
     <th>Nombre</th>
-    <th>visualizar mantenimiento</th>
+    <th>Resumen</th>
   </tr>
   <tr>
     <td>Actores</td>
     <td>
-       -Usuario<br>- UTPL<br>-Mantenimiento
+       -Usuario<br>- UTPL<br>- Administrador
     </td>
   </tr>
   <tr>
@@ -299,31 +190,14 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
      - Usuario Visualiza un resumen de los Mantenimientos en UTPL
       <br>
      - UTPL despliega los datos de los Mantenimientos al Usuario
-    </td>
-  </tr>
-</table>
-
-### Caso: visualizar costos
-<table>
-  <tr>
-    <th>Nombre</th>
-    <th>visualizar costos</th>
-  </tr>
-  <tr>
-    <td>Actores</td>
-    <td>
-       -Usuario<br>- UTPL
-    </td>
-  </tr>
-  <tr>
-    <td>Flujo normal</td>
-    <td>
+      <br>
      - Usuario Visualiza los costos en UTPL
       <br>
      - UTPL despliega los datos de los costos al Usuario
     </td>
   </tr>
 </table>
+
 
 
 
