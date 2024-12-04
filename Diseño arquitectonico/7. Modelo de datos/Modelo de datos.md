@@ -41,4 +41,7 @@ Describen cómo las entidades están conectadas entre sí y cómo interactúan. 
 + Modelo lógico: Especifica estructuras detalladas como tablas y columnas.
 + Modelo físico: Implementación en un sistema de base de datos específico.
 
+![WhatsApp Image 2024-11-27 at 08 13 54](https://github.com/user-attachments/assets/af12db5d-9458-4591-a8a4-63b6c4e377d5)
+
+
 
