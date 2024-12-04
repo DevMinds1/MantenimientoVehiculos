@@ -16,7 +16,7 @@ Un **Mapa de Capacidades** es una herramienta visual que ayuda a estructurar y d
 
 Un mapa de capacidades generalmente se divide en módulos o áreas de alto nivel que representan conjuntos de funcionalidades interrelacionadas. Cada módulo tiene una serie de subfunciones o componentes que especifican en mayor detalle las capacidades que el sistema debe proporcionar. Estos módulos suelen estar organizados de manera jerárquica y permiten a los desarrolladores, diseñadores y stakeholders entender el alcance de las funcionalidades de la aplicación.
 
-![WhatsApp Image 2024-12-02 at 17 58 13](https://github.com/user-attachments/assets/7f6e137b-b883-4859-80aa-4e78f52969c0)
+![WhatsApp Image 2024-12-02 at 17 58 13](https://github.com/JonathanCoronel/uploadimg/blob/main/Imagenes%20Arquitectura/NuevoMapa2.jpg?raw=true)
 
 Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en el mantenimiento de flotas vehiculares, está organizada en cuatro módulos principales:
 
@@ -50,9 +50,10 @@ Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en
 **Objetivo**: Crear una orden de trabajo para el mantenimiento del vehículo.
 
 ### Capacidades:
-- **Seleccionar vehículo**: Escoger el vehículo que recibirá el mantenimiento.
-- **Seleccionar encargado**: Definir quién será el encargado del mantenimiento.
-- **Seleccionar taller**: Asociar el taller que llevará a cabo el mantenimiento.
+- **Crear orden**: Creación de la orden de mantenimiento.
+  - Seleccionar el vehículo que recibirá el mantenimiento.
+  - Seleccionar quién será el encargado del mantenimiento.
+  - Seleccionar el taller que llevará a cabo el mantenimiento.
 - **Preventivo**: Gestión de mantenimiento preventivo.
   - Seleccionar fecha para el mantenimiento.
   - Generar checklist de verificaciones.
