@@ -97,7 +97,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   <tr>
     <td>Flujo normal</td>
     <td>
-      - Usuario crea una orden de Mantenimiento en UTPL
+      - Usuario selecciona una orden de Mantenimiento en UTPL
       <br>
       - UTPL carga el formulario del Mantenimiento al Usuario
       <br>
