@@ -101,5 +101,5 @@ Los diagramas de robustez son una herramienta de modelado utilizada en el diseñ
 ![OrdenMantenimiento_Robustez](https://github.com/user-attachments/assets/b5d7c0fa-2ab3-4ad1-8a83-f138d815e95b)
 
 ### Diagrama Robustez: Visualización
-![Visualizacion_Robustez](https://github.com/user-attachments/assets/8894c78d-3964-4785-8bf1-b4bda76705de)
+![Visualizacion_Robustez](https://github.com/user-attachments/assets/4b7e94eb-7ab0-47bc-a529-f1007b260ef0)
 
