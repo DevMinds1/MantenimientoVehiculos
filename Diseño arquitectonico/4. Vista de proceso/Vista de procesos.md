@@ -95,7 +95,7 @@ Los diagramas de robustez son una herramienta de modelado utilizada en el diseñ
 + Relaciones: Representan las conexiones entre actores, controladores y entidades mediante líneas con etiquetas que describen la          interacción.
 
 ### Diagrama Robustez: Registro
-![Registro_Robustez](https://github.com/user-attachments/assets/af9b410a-2f9c-4380-9d5d-367e648fce70)
+![Registro_Robustez](https://github.com/user-attachments/assets/53307f92-9de5-41fa-ae22-6c8f930899ac)
 
 ### Diagrama Robustez: Orden de Mantenimiento
 ![OrdenMantenimiento_Robustez](https://github.com/user-attachments/assets/afc5c3b1-f49a-44df-8c15-bb07fe375405)
