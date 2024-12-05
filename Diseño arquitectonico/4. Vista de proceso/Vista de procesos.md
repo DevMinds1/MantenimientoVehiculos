@@ -25,7 +25,7 @@ Los diagramas de secuencia son una herramienta de modelado en la Ingeniería de 
 
 ### Diagrama: Registro
 
-![Diagrama_Secuencia_Registro](https://github.com/user-attachments/assets/e18e175b-db6c-4a36-b8b9-cc0fe7a0098e)
+![Diagrama_Secuencia_Registro](https://github.com/JonathanCoronel/uploadimg/blob/main/Imagenes%20Arquitectura/secuenci1.drawio.png?raw=true)
 
 ### Explicación:
 
