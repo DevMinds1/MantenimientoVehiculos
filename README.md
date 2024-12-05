@@ -49,7 +49,7 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
       <b>Edgar Espinoza</b><br>UX/UI Designer
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/db83e727-8442-4215-a5dd-457c879ed155" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
+      <img src="https://github.com/user-attachments/assets/84f7b700-23de-4f7d-805b-d0464d7a67ea" alt="Mi perfil" width="150" height="150" style="border-radius: 50%;">
       <br>
       <b>Jostin Alvarado</b><br>Deploy, Test and Security
     </td>
@@ -58,6 +58,7 @@ Ser reconocidos como un líder global en desarrollo de software, destacado por n
     </td>
   </tr>
 </table>
+
 
 <h1>Reto: Mantenimiento de flotas</h1>
 
