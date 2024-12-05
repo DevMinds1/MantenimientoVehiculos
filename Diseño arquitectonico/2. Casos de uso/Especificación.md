@@ -79,7 +79,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ## 2. Diagrama de caso de uso (Orden de mantenimiento)
 
-![Diagrama de caso de uso Orden Mantenimiento drawio](https://github.com/JonathanCoronel/uploadimg/blob/main/Imagenes%20Arquitectura/Diagrama%20de%20Caso2.drawio.png?raw=true)
+![Diagrama de caso de uso Orden Mantenimiento drawio](https://github.com/JonathanCoronel/uploadimg/blob/main/Imagenes%20Arquitectura/Diagrama%20de%20Caso2final.drawio.png?raw=true)
 
 ## Especificación (Orden de mantenimiento)
 
