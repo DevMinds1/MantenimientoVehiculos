@@ -83,7 +83,7 @@ Nuestra empresa ofrece una solución integral para la gestión eficiente del man
 ## Prototipo FIGMA
 
 <p align='center'>
-<img src="https://github.com/user-attachments/assets/14e7ed03-1537-4cf7-aec2-77aead87f634" alt="qrcode_133488899_720ae18b86c79d09d4187c2e8f481515" width="300"/>
+<img src="https://github.com/user-attachments/assets/ed016b1a-4fed-49fe-9e8e-212872057e50" alt="qrcode_133488899_720ae18b86c79d09d4187c2e8f481515" width="300"/>
 </p>
 
 <a href="https://www.figma.com/design/jOyGgEHgYFGzGWn7dsOUJP/UTPL-Flotas?node-id=0-1&t=9uv6KWfHyzLB6PhX-1" target="_blank">Link al prototipo</a>
