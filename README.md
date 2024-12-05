@@ -83,9 +83,9 @@ Nuestra empresa ofrece una solución integral para la gestión eficiente del man
 ## Prototipo FIGMA
 
 <p align='center'>
-<img src="https://github.com/user-attachments/assets/ed016b1a-4fed-49fe-9e8e-212872057e50" alt="qrcode_133488899_720ae18b86c79d09d4187c2e8f481515" width="300"/>
+<img src="https://github.com/user-attachments/assets/49aefe0f-b24c-4355-9963-4f8e99f4ed8c" width="300"/>
 </p>
 
-<a href="https://www.figma.com/design/jOyGgEHgYFGzGWn7dsOUJP/UTPL-Flotas?node-id=0-1&t=9uv6KWfHyzLB6PhX-1" target="_blank">Link al prototipo</a>
+<a href="https://www.figma.com/proto/jOyGgEHgYFGzGWn7dsOUJP/UTPL-Flotas?node-id=2001-4868&node-type=canvas&t=9aMuXrEnDAffhH64-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2001%3A4868" target="_blank">Link al prototipo</a>
 
 
