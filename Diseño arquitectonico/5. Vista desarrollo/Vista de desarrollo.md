@@ -27,3 +27,8 @@ Características clave de DevOps:
 - Entrega continua: DevOps busca entregar software de forma continua y frecuente, lo que permite obtener feedback más rápido de los usuarios y realizar ajustes de manera ágil.
 - Mejora continua: DevOps es un proceso iterativo que se basa en la mejora continua. Los equipos utilizan métricas y datos para identificar áreas de mejora y realizar ajustes en sus procesos.
 - Cultura de la fiabilidad: DevOps pone énfasis en la fiabilidad del software, asegurando que las aplicaciones funcionen de manera correcta y estén disponibles en todo momento.
+
+## Flujo DEVOPS
+
+![Diseño sin título](https://github.com/user-attachments/assets/d2588bb4-c358-4322-801f-485aa09fa81c)
+
