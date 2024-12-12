@@ -37,6 +37,7 @@ Características clave de DevOps:
 ## Cronograma
 
 <h3>Backend</h3>
+
 1. Requerimientos y diseño
 •	Análisis de requisitos: Identificar las funcionalidades necesarias del sistema.
 •	Diseño de la arquitectura: Seleccionar la estructura del backend (microservicios, monolito).
@@ -66,6 +67,7 @@ o	Integraciones externas (APIs de terceros, servicios de pago).
 •	Configuración de monitoreo y logs.
  
 <h3>Frontend</h3>
+
 1. Requerimientos y diseño
 •	Análisis de requisitos: Definir la experiencia del usuario (UX).
 •	Wireframes y prototipos: Crear bocetos visuales y prototipos interactivos.
