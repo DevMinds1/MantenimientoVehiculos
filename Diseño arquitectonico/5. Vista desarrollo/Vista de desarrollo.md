@@ -34,6 +34,17 @@ Características clave de DevOps:
 
 ### Descripción
 
+| **Fase**   | **Herramienta(s)**                                          | **Descripción**                                                                                                            |
+|------------|------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Plan       | ClickUp, Zapier, Google Cloud Functions                   | Herramientas de gestión de proyectos y automatización de tareas para planificar y coordinar el desarrollo del software.    |
+| Code       | GitHub, Go, FastAPI                                       | Plataformas de control de versiones y lenguajes de programación utilizados para escribir el código fuente.                 |
+| Build      | Docker                                                     | Tecnología de contenedores para empaquetar aplicaciones y sus dependencias, facilitando la portabilidad y el despliegue.  |
+| Test       | GitLab, JMeter                                             | Plataformas de integración continua y herramientas de pruebas de rendimiento para garantizar la calidad del software.      |
+| Deploy     | Docker, WSO2                                              | Plataformas de contenedores y servidores de aplicaciones para desplegar el software en entornos de producción.             |
+| Operate    | Prometheus                                                 | Herramienta de monitoreo para supervisar el rendimiento de las aplicaciones en producción.                                 |
+| Monitor    | Prometheus                                                 | Herramienta de monitoreo para supervisar el rendimiento de las aplicaciones en producción.                                 |
+
+
 ## Cronograma
 
 <h3>Backend</h3>
