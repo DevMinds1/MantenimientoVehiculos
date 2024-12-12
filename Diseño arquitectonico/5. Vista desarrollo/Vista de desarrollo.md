@@ -96,12 +96,15 @@ o	Integraciones externas (APIs de terceros, servicios de pago).
 <h3>Actividades Entregables</h3>
 
 **Backend**
+
 1.	Diseñar los modelos de datos y endpoints.(Fecha inicio: 27/11/2024, Fecha Finalización: 04/12/2024)
 2.	Implementar el endpoint de autenticación. (Fecha inicio: 11/12/2024, Fecha Finalización: 18/12/2024)
 3.	Crear lógica de negocio para los flujos principales. (Fecha inicio: 20/12/2024, Fecha Finalización: 02/12/2024)
 4.	Integrar servicios externos. (Fecha inicio: 02/01/2025, Fecha Finalización: 09/01/2025)
 5.	Probar y validar la seguridad. (Fecha inicio: 09/01/2025, Fecha Finalización: 16/01/2025)
+
 **Frontend**
+
 1.	Crear componentes clave como formularios y dashboards. (Fecha inicio: 04/12/2024, Fecha Finalización: 10/12/2024)
 2.	Implementar autenticación y manejo de sesiones. (Fecha inicio: 11/12/2024, Fecha Finalización: 18/12/2024)
 3.	Integrar APIs y validar datos del backend. (Fecha inicio: 02/01/2025, Fecha Finalización: 09/01/2025)
