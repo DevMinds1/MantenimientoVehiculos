@@ -32,3 +32,85 @@ Características clave de DevOps:
 
 ![Diseño sin título](https://github.com/user-attachments/assets/d2588bb4-c358-4322-801f-485aa09fa81c)
 
+### Descripción
+
+## Cronograma
+
+Backend
+1. Requerimientos y diseño
+•	Análisis de requisitos: Identificar las funcionalidades necesarias del sistema.
+•	Diseño de la arquitectura: Seleccionar la estructura del backend (microservicios, monolito).
+•	Definición de modelos de datos: Diseñar las bases de datos y las relaciones.
+•	Definición de la API: Crear un contrato API (endpoints, métodos, formatos).
+2. Configuración inicial
+•	Configuración del entorno de desarrollo (IDE, dependencias, frameworks).
+•	Creación de repositorios (Git, CI/CD pipelines).
+•	Configuración del entorno de Cloud Functions
+•	Configuración de la base de datos (Firebase).
+3. Desarrollo
+•	Implementación de modelos y esquemas de base de datos.
+•	Desarrollo de endpoints:
+o	Autenticación y autorización (registro, inicio de sesión).
+o	Operaciones CRUD (Create, Read, Update, Delete).
+o	Integraciones externas (APIs de terceros, servicios de pago).
+•	Implementación de lógica de negocio.
+•	Manejo de errores y validación de datos.
+4. Pruebas y validación
+•	Creación de pruebas unitarias para servicios.
+•	Pruebas de integración con la base de datos.
+•	Pruebas de rendimiento y escalabilidad.
+•	Validación de seguridad.
+5. Implementación y despliegue
+•	Preparación de la base de datos.
+•	Despliegue en producción.
+•	Configuración de monitoreo y logs.
+ 
+Frontend
+1. Requerimientos y diseño
+•	Análisis de requisitos: Definir la experiencia del usuario (UX).
+•	Wireframes y prototipos: Crear bocetos visuales y prototipos interactivos.
+•	Definición de arquitectura: Estructura de componentes, rutas y estados.
+2. Configuración inicial
+•	Configuración del entorno de desarrollo).
+•	Instalación de dependencias y configuración de herramientas.
+•	Configuración del diseño base.
+3. Desarrollo
+•	Creación de componentes base.
+•	Implementación de rutas y navegación.
+•	Integración con APIs del backend.
+•	Desarrollo de lógica de estado.
+•	Estilizado y responsividad.
+4. Pruebas y validación
+•	Pruebas unitarias de componentes.
+•	Pruebas funcionales y de interacción.
+•	Validación de diseño responsivo y accesibilidad.
+•	Pruebas de rendimiento en el navegador.
+5. Implementación y despliegue
+•	Construcción del proyecto para producción.
+•	Despliegue en Google Play.
+•	Validación en entornos reales.
+•	Configuración de monitoreo.
+ 
+
+
+
+
+
+
+
+Actividades Entregables
+Backend
+1.	Diseñar los modelos de datos y endpoints.(Fecha inicio: 27/11/2024, Fecha Finalización: 04/12/2024)
+2.	Implementar el endpoint de autenticación. (Fecha inicio: 11/12/2024, Fecha Finalización: 18/12/2024)
+3.	Crear lógica de negocio para los flujos principales. (Fecha inicio: 20/12/2024, Fecha Finalización: 02/12/2024)
+4.	Integrar servicios externos. (Fecha inicio: 02/01/2025, Fecha Finalización: 09/01/2025)
+5.	Probar y validar la seguridad. (Fecha inicio: 09/01/2025, Fecha Finalización: 16/01/2025)
+Frontend
+1.	Crear componentes clave como formularios y dashboards. (Fecha inicio: 04/12/2024, Fecha Finalización: 10/12/2024)
+2.	Implementar autenticación y manejo de sesiones. (Fecha inicio: 11/12/2024, Fecha Finalización: 18/12/2024)
+3.	Integrar APIs y validar datos del backend. (Fecha inicio: 02/01/2025, Fecha Finalización: 09/01/2025)
+4.	Asegurar la responsividad y accesibilidad. (Fecha inicio: 16/01/2025, Fecha Finalización: 20/01/2025)
+5.	Realizar pruebas funcionales y visuales. (Fecha inicio: 20/01/2025, Fecha Finalización: 23/01/2025)
+
+
+
