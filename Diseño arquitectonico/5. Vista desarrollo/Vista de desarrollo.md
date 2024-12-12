@@ -34,16 +34,16 @@ Características clave de DevOps:
 
 ### Descripción
 
-| **Fase**   | **Herramienta(s)**                                          | **Descripción**                                                                                                            |
-|------------|------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Plan       | ClickUp, Zapier                                            | Herramientas de gestión de proyectos y automatización de tareas para planificar y coordinar el desarrollo del software.    |
-| Code       | GitHub, Go, FastAPI,React                                  | Plataformas de control de versiones y lenguajes de programación utilizados para escribir el código fuente.                 |
-| Build      | Docker                                                     | Tecnología de contenedores para empaquetar aplicaciones y sus dependencias, facilitando la portabilidad y el despliegue.  |
-| Test       | GitLab, JMeter                                             | Plataformas de integración continua y herramientas de pruebas de rendimiento para garantizar la calidad del software.      |
-| Deploy     | Docker, WSO2                                              | Plataformas de contenedores y servidores de aplicaciones para desplegar el software en entornos de producción.             |
-| Operate    | Prometheus                                                 | Herramienta de monitoreo para supervisar el rendimiento de las aplicaciones en producción.                                 |
-| Monitor    | Prometheus                                                 | Herramienta de monitoreo para supervisar el rendimiento de las aplicaciones en producción.                                 |
-
+| **Fase**    | **Herramienta**                  | **Descripción**                                                                                                                                                  |
+|-------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Plan**    | ClickUp, Zapier, Discord         | Herramientas para gestión de proyectos, automatización de tareas y comunicación en equipo.                                                                      |
+| **Code**    | GitHub, Go, React, FastAPI       | Sistema de control de versiones, lenguaje de programación eficiente, librería de frontend y framework para crear APIs RESTful rápidas.                          |
+| **Build**   | Docker                           | Plataforma para crear contenedores que encapsulan la aplicación y sus dependencias, garantizando portabilidad entre entornos.                                    |
+| **Test**    | GitLab, Apache JMeter            | Plataforma de CI/CD para gestionar pruebas automatizadas y herramienta para realizar pruebas de rendimiento y carga.                                            |
+| **Release** | GitLab CI/CD                     | Plataforma de integración y entrega continua que automatiza el proceso de despliegue, garantizando versiones listas para producción.                            |
+| **Deploy**  | Google Cloud Functions, Google Play, Docker Hub | Servicios para ejecutar funciones serverless, distribuir aplicaciones y publicar imágenes de contenedores.                                          |
+| **Monitor** | Prometheus                       | Herramienta de monitoreo que recopila métricas de aplicaciones y sistemas, con alertas configurables en tiempo real.                                             |
+| **Operate** | WSO2                             | Plataforma para la gestión de APIs, integración de servicios y seguridad, optimizando la operación de sistemas a nivel empresarial.                             |
 
 ## Cronograma
 
