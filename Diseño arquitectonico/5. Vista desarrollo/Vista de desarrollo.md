@@ -92,6 +92,7 @@ o	Integraciones externas (APIs de terceros, servicios de pago).
 •	Configuración de monitoreo.
  
 <h3>Actividades Entregables</h3>
+
 **Backend**
 1.	Diseñar los modelos de datos y endpoints.(Fecha inicio: 27/11/2024, Fecha Finalización: 04/12/2024)
 2.	Implementar el endpoint de autenticación. (Fecha inicio: 11/12/2024, Fecha Finalización: 18/12/2024)
