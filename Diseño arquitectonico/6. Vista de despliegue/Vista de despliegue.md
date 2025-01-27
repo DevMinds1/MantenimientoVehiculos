@@ -7,3 +7,10 @@
 ## Diagrama de despliegue (Mantenimiento de flotas)
 
 ![Diagrama de despliegue Flotas-2 (1) drawio](https://github.com/user-attachments/assets/2902b39a-e0fe-427f-9c2a-19b9f82c1ced)
+
+<p>El diagrama de despliegue presentado describe la arquitectura de una aplicación móvil orientada a la gestión de flotas vehiculares. A continuación, se explican los componentes y la interacción entre ellos de manera detallada y formal:</p>
+
+### 1. Smartphone
+* Descripción:
+  * Representa el dispositivo del usuario final donde se ejecuta la aplicación móvil.
+  * Este dispositivo interactúa directamente con el sistema mediante solicitudes HTTP.
