@@ -23,8 +23,8 @@
     * Scripts: Código de la lógica funcional que habilita las funcionalidades de la aplicación.
 ### 2. WSO2 API Manager
 * Descripción:
- * Este componente actúa como un Gateway API encargado de recibir y gestionar las solicitudes HTTP provenientes de la aplicación móvil.
- * Funciona como intermediario entre la aplicación móvil y los microservicios alojados en el servidor de productos, garantizando la seguridad, el control de accesos y la gestión de las API.
+  * Este componente actúa como un Gateway API encargado de recibir y gestionar las solicitudes HTTP provenientes de la aplicación móvil.
+  * Funciona como intermediario entre la aplicación móvil y los microservicios alojados en el servidor de productos, garantizando la seguridad, el control de accesos y la gestión de las API.
 * Funciones principales:
- * Redirigir solicitudes REST al microservicio correspondiente en el servidor de productos.
- * Proveer una capa de abstracción entre la aplicación móvil y los servicios backend.
+  * Redirigir solicitudes REST al microservicio correspondiente en el servidor de productos.
+  * Proveer una capa de abstracción entre la aplicación móvil y los servicios backend.
