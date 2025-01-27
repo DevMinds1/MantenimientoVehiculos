@@ -28,7 +28,7 @@
 * Funciones principales:
   * Redirigir solicitudes REST al microservicio correspondiente en el servidor de productos.
   * Proveer una capa de abstracción entre la aplicación móvil y los servicios backend.
-## 3. Product Server
+### 3. Product Server
 * Descripción:
   * Servidor dedicado a alojar los microservicios que implementan la lógica de negocio de la aplicación.
   * Cada microservicio se comunica con una instancia de Firebase para el almacenamiento de datos persistentes mediante el protocolo TCP.
@@ -49,3 +49,8 @@
 * Descripción:
   * Servicio de backend que proporciona almacenamiento en la nube, permitiendo a los microservicios interactuar con bases de datos Firestore y sistemas de almacenamiento.
   * Cada microservicio interactúa directamente con su respectiva instancia de Firebase mediante una conexión TCP.
+### Flujo General del Sistema
+  * El usuario interactúa con la aplicación móvil, realizando acciones que generan solicitudes HTTP.
+  * Estas solicitudes son enviadas al API Gateway del WSO2 API Manager, que las redirige al microservicio correspondiente.
+  * Los microservicios procesan las solicitudes y, si es necesario, interactúan con Firebase para almacenar o recuperar datos.
+  * La respuesta procesada se devuelve al API Gateway, que la envía de vuelta a la aplicación móvil para ser presentada al usuario.
