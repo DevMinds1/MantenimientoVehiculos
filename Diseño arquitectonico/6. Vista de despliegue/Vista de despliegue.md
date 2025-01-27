@@ -14,3 +14,9 @@
 * Descripción:
   * Representa el dispositivo del usuario final donde se ejecuta la aplicación móvil.
   * Este dispositivo interactúa directamente con el sistema mediante solicitudes HTTP.
+* Componentes:
+  * React Native App:
+    * Es la aplicación móvil desarrollada en React Native, cuyo propósito principal es ofrecer una interfaz interactiva para la gestión de flotas.
+* Subcomponentes:
+  * Styles: Conjunto de estilos visuales que definen la apariencia de la interfaz de usuario.
+  * Scripts: Código de la lógica funcional que habilita las funcionalidades de la aplicación.
