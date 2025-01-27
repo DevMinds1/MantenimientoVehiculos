@@ -45,3 +45,7 @@
   * Microservice Vehicles:
     * Diseñado para gestionar la información de los vehículos de la flota, como su estado y mantenimiento.
     * Se conecta a Firestore/Storage para almacenar y recuperar datos de los vehículos.
+### 4. Firebase
+* Descripción:
+  * Servicio de backend que proporciona almacenamiento en la nube, permitiendo a los microservicios interactuar con bases de datos Firestore y sistemas de almacenamiento.
+  * Cada microservicio interactúa directamente con su respectiva instancia de Firebase mediante una conexión TCP.
