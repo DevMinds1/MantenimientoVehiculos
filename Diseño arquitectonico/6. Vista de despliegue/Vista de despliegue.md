@@ -28,3 +28,20 @@
 * Funciones principales:
   * Redirigir solicitudes REST al microservicio correspondiente en el servidor de productos.
   * Proveer una capa de abstracción entre la aplicación móvil y los servicios backend.
+## 3. Product Server
+* Descripción:
+  * Servidor dedicado a alojar los microservicios que implementan la lógica de negocio de la aplicación.
+  * Cada microservicio se comunica con una instancia de Firebase para el almacenamiento de datos persistentes mediante el protocolo TCP.
+* Microservicios:
+  * Microservice Users:
+    * Responsable de la gestión de datos relacionados con los usuarios, como autenticación, roles y permisos.
+    * Utiliza Firestore/Storage para el almacenamiento de información del usuario.
+  * Microservice repairShops:
+    * Administra los datos de talleres de reparación, incluyendo su ubicación e información en general.
+    * Depende de Firestore/Storage para la persistencia de estos datos.
+  * Microservice Orders:
+    * Encargado del manejo de órdenes o solicitudes relacionadas con la gestión de flotas.
+    * Firestore/Storage almacena la información de las órdenes procesadas.
+  * Microservice Vehicles:
+    * Diseñado para gestionar la información de los vehículos de la flota, como su estado y mantenimiento.
+    * Se conecta a Firestore/Storage para almacenar y recuperar datos de los vehículos.
