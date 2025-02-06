@@ -43,6 +43,7 @@ El ciclo DevOps fue fundamental para el desarrollo y operación de la aplicació
 
 #### 1. PLAN
 - **Herramientas Utilizadas**: Zapier, ClickUp, Discord.
+- ![image](https://github.com/user-attachments/assets/d15edc01-0091-4237-b68d-98eb20ffbdd4)
 - **Actividades**:
   - Planificación de tareas y asignación de responsabilidades utilizando ClickUp, lo que permitió un seguimiento detallado del progreso del proyecto.
   - Automatización de flujos de trabajo y notificaciones con Zapier, lo que redujo el tiempo dedicado a tareas repetitivas.
