@@ -41,6 +41,8 @@ La aplicación fue diseñada con una arquitectura de microservicios, lo que perm
 
 El ciclo DevOps fue fundamental para el desarrollo y operación de la aplicación de gestión de mantenimientos de vehículos. A continuación, se detalla cómo se implementó cada fase del ciclo DevOps:
 
+![image](https://github.com/user-attachments/assets/d2410336-ce8e-4e28-ba7b-e540db6e5d0b)
+
 #### 1. PLAN
 - **Herramientas Utilizadas**: Zapier, ClickUp, Discord.
 - **Actividades**:
