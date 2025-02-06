@@ -43,7 +43,7 @@ El ciclo DevOps fue fundamental para el desarrollo y operación de la aplicació
 
 #### 1. PLAN
 - **Herramientas Utilizadas**: Zapier, ClickUp, Discord.
-- ![image](https://github.com/user-attachments/assets/d15edc01-0091-4237-b68d-98eb20ffbdd4)
+- ![image](https://github.com/user-attachments/assets/c3689e93-f931-4f96-b858-35bc16f9c3b5)
 - ![image](https://github.com/user-attachments/assets/1d8f4806-3ff3-4b1b-9b2a-8942ca663fa9)
 - ![image](https://github.com/user-attachments/assets/faee3ced-cc11-4c56-8cd5-b9a22c280532)
 
